@@ -1,0 +1,7 @@
+# Architecture
+
+1.  Documented architecture in Confluence in the 4+1 style. This documentation should evolve from and replace your design concept. Note that  _not all diagrams types or models are required_; this will depend on your project and should be confirmed with your supervisor.
+2.  Your documentation should not attempt to capture details of frameworks or other fixed elements that you have adopted; it is sufficient to reference these elements. You should concentrate on the elements of the system which your team has developed and how the system fits together as a whole.
+3.  An architecture should always take basic design principles such as low coupling and high cohesion into account, to support maintainability and extensibility. In addition, where your project has critical attributes or other special requirements, it should be clearly documented how the architecture accounts for these.
+4.  It must be possible to navigate from the architecture documentation to the code, that is, naming and other information in the architecture should allow a reader to find the corresponding code elements in Bitbucket.
+5.  Your architecture should pass the “new team member” test. If a new team member joined your team, you should be able to use the architecture diagrams to explain the system and assign tasks to the new team member, who should then be able to understand the context of their assigned task, the interfaces they need to work to, the reuse elements already decided and the rationale for these, and be able to find the relevant elements in Bitbucket.
