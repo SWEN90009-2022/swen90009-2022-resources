@@ -19,6 +19,10 @@ Make sure that your Requriements Elicitation satisfies the following criteria:
 - [ ] The explained interview contains no typos or spelling errors. 
 - [ ] The document is well organized/structured and also lists their questions and strategies to help them understanding the requirements of the system.
 
+## Meetings
+Make sure your meetings (team meetings, supervision meetings and meetings with industry partners) are documented in Confluence (and only). 
+
+- [ ] Meetings are recorded in Confluence and only. They were NOT exported to Github as they're part of internal process.
 
 ## GitHub 
 Make sure that: 
