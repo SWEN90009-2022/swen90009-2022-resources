@@ -46,3 +46,8 @@ Make sure that:
 - [ ] Sprint 2 documents were exported from Confluence and added to the repository (and are updated)
 - [ ] README file is updated and explain the team's repository
 - [ ] A baseline tag was generated for this Sprint (On Canvas, visit Assignment -> "Sprint 2: Do/be/feel, goal model and personas" page: you can find requirements for the baseline tag)
+
+
+## Additional Information
+
+*do you have any other additional information you'd like to share with us? Please add it here.*

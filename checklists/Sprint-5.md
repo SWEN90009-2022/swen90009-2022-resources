@@ -34,12 +34,6 @@ Make sure that:
 - [ ] A document was also generated with SAMPLE DATA industry partner will need to simulate tasks and scenarios in the final digital prototype.
 
 
-## Executable Architecture
-Make sure that:
-
-- [ ] Team created an executable architecture for the project, which will help students in SM2 to carry on with the development of this project.
-
-
 ## Self-reflection 
 
 Self-reflection is one document for the whole team (with one subsection for each student and a final one for the whole team explaining how they addressed received feedback in the project).
@@ -48,3 +42,8 @@ Make sure that the self-reflection contains:
 
 - [ ] 250 words maximum per student
 - [ ] Self-reflection about students' journey in the subject and brief discussion on what & how they addressed received feedback after usability tests with clients.
+
+
+## Additional Information
+
+*do you have any other additional information you'd like to share with us? Please add it here.*

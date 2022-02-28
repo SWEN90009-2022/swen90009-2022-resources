@@ -77,3 +77,7 @@ Make sure that:
 - [ ] Sprint 4 documents were exported from Confluence and added to the repository (and are updated)
 - [ ] README file is updated and explain the team's repository
 - [ ] A baseline tag was generated for this Sprint (On Canvas, visit Assignment -> "Sprint 4: Moodboards, digital prototype, acceptance criteria, acceptance tests, data sample and traceability matrix" page: you can find requirements for the baseline tag)
+
+## Additional Information
+
+*do you have any other additional information you'd like to share with us? Please add it here.*
