@@ -39,7 +39,7 @@ Make sure that your low fidelity prototype satisfies the following criteria:
 - [ ] Consistency:The low fidelity prototype is consistent with the client's expected behaviour of the problem and with other artefacts.
 - [ ] Realistic:The low fidelity prototype will show realistic data as inputs and outputs in its screens. 
 - [ ] Presentation:The prototype will be well built to clearly demonstrate the capabilities and interactions to the client with the task scenarios. The screens will contain no typos or spelling errors. 
-- [ ] Task scenario:The tasks are clear, well written, organized and consistent to user stories. They help the students validating the usability and the goals of the system. They are available on Confluence.
+- [ ] Task scenario (optional for low fidelity prototypes, however strongly encouraged as students can receive feedback and improve their task scenarios for high fidelity prototypes):The tasks are clear, well written, organized and consistent to user stories. They help the students validating the usability and the goals of the system. They are available on Confluence. **IF you submit this item, we will provide you feedback but won't give/deduct points in your sprint for this criteria.**
 
 
 
