@@ -75,7 +75,7 @@ card are shown in the next image:
 3.  add team members to your private project repository;
 4.  structure your folders as detailed below:
 
->├── docs/		Documentation files (you can create subfolders here to organize your requirements and meeting minutes)
+>├── docs/		Documentation files (you can create subfolders here to organize your requirements)
 
 >├── tests/		Validation and Verification tests; Data samples.
 
@@ -89,12 +89,7 @@ card are shown in the next image:
 
 More details about the use of GitHub will be provided in the coming
 days. For now, make sure you create this structure in your repository
-(please stick to it). Document your meeting minutes and make sure you
-add it to **docs/**
-
-**example**: 
-- docs/meeting_minutes\_\<Mar8\>.txt;
-- docs/meeting_minutes\_\<Mar12\>.txt;
+(please stick to it). 
 
 Keep this document professional. Make sure you list who attended the
 meeting, when that happened, what was discussed and so on. Your
@@ -128,6 +123,9 @@ Confluence space (main pages, subpages, labels, keyworks and so on):
     a.  Create a page named Specification on your Confluence Space
 
     b.  Create a subpage named Project Overview on your Confluence Space
+
+3. Document your meetings 
+- team meetings, supervision meetings and meetings with industry partners *must* be documented on Confluence (and only). As this is an internal information, it shouldn't be listed in Github. Confluence has templates to help you documenting your meetings. Make sure you use them.
 
 > Describe the project background (motivation), problem and the scope of
 > the solution. Its purpose is to be the initial brief for semester 2
