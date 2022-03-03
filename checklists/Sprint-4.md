@@ -54,11 +54,12 @@ Make sure your Traceability Matrix satisfies the following criteria:
 - [ ] Complete: All the user stories and acceptance tests are listed in the matrix.
 
 
-## Usability Test (VIDEO)
+## Usability Test (Validation Tasks and VIDEO)
 Make sure your Usability Test Video satisfies the following criteria:
 
 - [ ] At least 4 scenarios/tasks were created and validated with the client (high fidelity prototype). 
 - [ ] Tasks are related to main user stories (high priority). 
+- [ ] Tasks are available/updated in Confluence. 
 - [ ] Prototypes were not presented but tested. 
 - [ ] The video is between 2 and 4 minutes (this video MUST be presented and discussed in your final presentation).
 - [ ] The video file will be available in Confluence (not only as a link).
