@@ -12,19 +12,6 @@ Make sure that your user stories satsify the following criteria:
 - [ ] Presentation: The user stories document is clearly laid out. The user stories are well-written and they are unambiguous. They contain no typos or spelling errors.
 
 
-## Consistency between User Stories, Goal Model and Personas
-Make sure that your user stories, Goal Model (i.e. motivational model) and personas satisfy the following 9 consistency principles (CP): 
-- [ ] CP1: There should be at least one persona for every role in the motivational model.
-- [ ] CP2: Every persona should relate to a role in the motivational model.
-- [ ] CP3: The grouping of user stories into epics should be reflected in the motivational models.
-- [ ] CP4: Every user story needs to relate to one of the nodes in the model.
-- [ ] CP5: There should be at least one user story for every leaf node in the motivational model.
-- [ ] CP6: There should be at least one user story for every quality goal.
-- [ ] CP7: Every quality goal occurring within a user story should appear in the motivational model.
-- [ ] CP8: There should be at least one user story for every emotional goal.
-- [ ] CP9: Every emotional goal occurring within a user story should appear in the motivational model.
-
-
 ## User Story Map
 Make sure that your user story map satsifies the following criteria:
 
